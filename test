@@ -1,2 +1,3 @@
+public void fetch() throws SQLException, IOException
 String userName = props.getProperty("db.user");
 hello world
