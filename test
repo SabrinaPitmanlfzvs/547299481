@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 props.load(fs);
 // error processing code
 while (rs.next())
