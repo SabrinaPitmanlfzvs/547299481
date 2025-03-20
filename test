@@ -1,3 +1,4 @@
+props.load(fs);
 OracleJdbcTest test = new OracleJdbcTest();
 props.load(fs);
 // error processing code
